@@ -1,0 +1,27 @@
+{
+  "daily": {
+    "url": "https://osf.io/fzxvm/download",
+    "sha256": null,
+    "local": "./.cache/voc_daily.parquet"
+  },
+  "seasonal": {
+    "url": "https://osf.io/ehavn/download",
+    "sha256": null,
+    "local": "./.cache/voc_seasonal.parquet"
+  },
+  "wdwe": {
+    "url": "https://osf.io/dwgea/download",
+    "sha256": null,
+    "local": "./.cache/voc_weekday_weekend.parquet"
+  },
+  "pd_sid_summary": {
+    "url": "https://osf.io/9r7k5/download",
+    "sha256": null,
+    "local": "./.cache/pd_sid_summary.parquet"
+  },
+  "pd_sid_pairs": {
+    "url": "https://osf.io/6pgjs/download",
+    "sha256": null,
+    "local": "./.cache/pd_sid_pairs.parquet"
+  }
+}
